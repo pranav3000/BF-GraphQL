@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-17T17:54:02.435142Z</date>
+  <millis>1666029242435</millis>
+  <nanos>142000</nanos>
+  <sequence>0</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Total nodes on page 3 = 10</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.480347Z</date>
+  <millis>1666029242480</millis>
+  <nanos>347000</nanos>
+  <sequence>1</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 1 on page 3 is: Node [id=3584, name=Mohana Guha Sr., email=mohana_sr_guha@lesch.biz, gender=female, status=inactive]</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.480829Z</date>
+  <millis>1666029242480</millis>
+  <nanos>829000</nanos>
+  <sequence>2</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 2 on page 3 is: Node [id=3583, name=Anamika Verma CPA, email=cpa_anamika_verma@walter-prohaska.com, gender=female, status=inactive]</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.481276Z</date>
+  <millis>1666029242481</millis>
+  <nanos>276000</nanos>
+  <sequence>3</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 3 on page 3 is: Node [id=3582, name=Harinakshi Gill, email=gill_harinakshi@parisian-kerluke.info, gender=male, status=active]</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.481689Z</date>
+  <millis>1666029242481</millis>
+  <nanos>689000</nanos>
+  <sequence>4</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 4 on page 3 is: Node [id=3581, name=Dhanadeepa Chattopadhyay, email=chattopadhyay_dhanadeepa@smitham.net, gender=male, status=inactive]</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.482100Z</date>
+  <millis>1666029242482</millis>
+  <nanos>100000</nanos>
+  <sequence>5</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 5 on page 3 is: Node [id=3580, name=Sen. Divya Asan, email=sen_asan_divya@damore-mann.co, gender=female, status=active]</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.482474Z</date>
+  <millis>1666029242482</millis>
+  <nanos>474000</nanos>
+  <sequence>6</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 6 on page 3 is: Node [id=3579, name=Aamod Dubashi, email=dubashi_aamod@schuppe-upton.io, gender=male, status=inactive]</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.482858Z</date>
+  <millis>1666029242482</millis>
+  <nanos>858000</nanos>
+  <sequence>7</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 7 on page 3 is: Node [id=3578, name=Agnimitra Kapoor, email=kapoor_agnimitra@goldner.info, gender=female, status=active]</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.483405Z</date>
+  <millis>1666029242483</millis>
+  <nanos>405000</nanos>
+  <sequence>8</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 8 on page 3 is: Node [id=3577, name=Adityanandan Jain, email=adityanandan_jain@hessel-runolfsson.co, gender=female, status=active]</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.483762Z</date>
+  <millis>1666029242483</millis>
+  <nanos>762000</nanos>
+  <sequence>9</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 9 on page 3 is: Node [id=3576, name=Krishna Guha DC, email=guha_krishna_dc@kihn.biz, gender=male, status=inactive]</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.484138Z</date>
+  <millis>1666029242484</millis>
+  <nanos>138000</nanos>
+  <sequence>10</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User no 10 on page 3 is: Node [id=3575, name=Satyen Deshpande, email=deshpande_satyen@bergstrom-yost.io, gender=female, status=inactive]</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.484469Z</date>
+  <millis>1666029242484</millis>
+  <nanos>469000</nanos>
+  <sequence>11</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>log the total number of pages = 351</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.484946Z</date>
+  <millis>1666029242484</millis>
+  <nanos>946000</nanos>
+  <sequence>12</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort the retrieved user list by name</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.485314Z</date>
+  <millis>1666029242485</millis>
+  <nanos>314000</nanos>
+  <sequence>13</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>After sorting, User no 1 on page 3 is: Aamod Dubashi</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.485610Z</date>
+  <millis>1666029242485</millis>
+  <nanos>610000</nanos>
+  <sequence>14</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>After sorting, User no 2 on page 3 is: Adityanandan Jain</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.485905Z</date>
+  <millis>1666029242485</millis>
+  <nanos>905000</nanos>
+  <sequence>15</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>After sorting, User no 3 on page 3 is: Agnimitra Kapoor</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.486282Z</date>
+  <millis>1666029242486</millis>
+  <nanos>282000</nanos>
+  <sequence>16</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>After sorting, User no 4 on page 3 is: Anamika Verma CPA</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.486605Z</date>
+  <millis>1666029242486</millis>
+  <nanos>605000</nanos>
+  <sequence>17</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>After sorting, User no 5 on page 3 is: Dhanadeepa Chattopadhyay</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.486911Z</date>
+  <millis>1666029242486</millis>
+  <nanos>911000</nanos>
+  <sequence>18</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>After sorting, User no 6 on page 3 is: Harinakshi Gill</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.487350Z</date>
+  <millis>1666029242487</millis>
+  <nanos>350000</nanos>
+  <sequence>19</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>After sorting, User no 7 on page 3 is: Krishna Guha DC</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.487708Z</date>
+  <millis>1666029242487</millis>
+  <nanos>708000</nanos>
+  <sequence>20</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>After sorting, User no 8 on page 3 is: Mohana Guha Sr.</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.488041Z</date>
+  <millis>1666029242488</millis>
+  <nanos>41000</nanos>
+  <sequence>21</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>After sorting, User no 9 on page 3 is: Satyen Deshpande</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.488363Z</date>
+  <millis>1666029242488</millis>
+  <nanos>363000</nanos>
+  <sequence>22</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>After sorting, User no 10 on page 3 is: Sen. Divya Asan</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.488664Z</date>
+  <millis>1666029242488</millis>
+  <nanos>664000</nanos>
+  <sequence>23</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Last user: Sen. Divya Asan</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.488994Z</date>
+  <millis>1666029242488</millis>
+  <nanos>994000</nanos>
+  <sequence>24</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Updating user name to new value</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.953801Z</date>
+  <millis>1666029242953</millis>
+  <nanos>801000</nanos>
+  <sequence>25</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>{"data":{"updateUser":{"user":{"id":3580,"name":"Harry Potter"}}}}</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:02.954513Z</date>
+  <millis>1666029242954</millis>
+  <nanos>513000</nanos>
+  <sequence>26</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleting User</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:03.437025Z</date>
+  <millis>1666029243437</millis>
+  <nanos>25000</nanos>
+  <sequence>27</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>{"data":{"deleteUser":{"user":{"id":3580,"name":"Harry Potter","email":"sen_asan_divya@damore-mann.co","gender":"female","status":"active"}}}}</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:03.437635Z</date>
+  <millis>1666029243437</millis>
+  <nanos>635000</nanos>
+  <sequence>28</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Attempting to retrieve 5555</message>
+</record>
+<record>
+  <date>2022-10-17T17:54:04.511299Z</date>
+  <millis>1666029244511</millis>
+  <nanos>299000</nanos>
+  <sequence>29</sequence>
+  <logger>proj.gorest.Program</logger>
+  <level>INFO</level>
+  <class>proj.gorest.Program</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>{"data":{"user":null},"errors":[{"message":"Resource not found!","locations":[{"line":1,"column":7}],"path":["user"],"extensions":{"code":"NOT_FOUND","result":[{"fieldName":"id","messages":["Couldn't find record with id=55555"]}]}}]}</message>
+</record>
+</log>
